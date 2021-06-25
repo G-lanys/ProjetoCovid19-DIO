@@ -1,6 +1,6 @@
 <p>Recriando o Projeto de pesquisa sobre o avanço da COVID19 pelo mundo.</p>
 <div align="center">
-<img src="img/jogo_dino.jpg"/>
+<img src="src/assete/images/img/covid19.jpg"/>
 </div>
 <p align="center">
  <a href="#computer-sobre">• Sobre</a> | 
